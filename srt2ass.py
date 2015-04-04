@@ -2,8 +2,8 @@
 #-*- coding:utf-8 -*-
 '''
 convert .srt to .ass 
-Originally from anonymous, revised to accommodate bi-lingual subtitles.
-David Xiao <davxiao79@gmail.com>
+
+David Xiao
 Oct 18, 2014
 '''
 
